@@ -7,6 +7,6 @@ isStaticPost: false
 
 The website for the 2020 edition of the Helmut Veith Workshop, now the Austrian
 Workshop on Logic in Computer Science, is now online. Please find it
-[here](https://hvwm.github.io/hvw2020/).
+[here](https://hvmw.github.io/hvw2020/).
 
 We look forward to seeing you at the workshop in 2020.
